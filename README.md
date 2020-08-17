@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://elegant-galileo-8aa9fb.netlify.app 
 
+Click above link to check the random-quote-machine :)
 ## Available Scripts
 
 In the project directory, you can run:
